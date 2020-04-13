@@ -1,0 +1,1 @@
+﻿create table edata(fname varchar(20),mob varchar(20),email varchar(20),username varchar(20),password varchar(20));

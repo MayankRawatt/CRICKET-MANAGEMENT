@@ -1,0 +1,1 @@
+﻿delete from BATSMEN where PID=201;
