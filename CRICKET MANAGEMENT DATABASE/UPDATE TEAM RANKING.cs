@@ -41,7 +41,7 @@ namespace CRICKET_MANAGEMENT_DATABASE
                 dataGridView1.DataSource = dt;
 
 
-                MessageBox.Show("UPDATED ");
+            MessageBox.Show("UPDATED ");
 
           
         }
